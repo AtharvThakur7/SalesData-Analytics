@@ -14,3 +14,7 @@ ElectroHub, a multi-category retail company, seeks to optimize its sales perform
 - Monitoring the total number of orders to gauge customer demand.
 - Visualizing sales distribution across different cities.
 - Identifying the top profit-generating categories to prioritize strategic focus.
+
+## Data Model 
+
+![image alt ]()

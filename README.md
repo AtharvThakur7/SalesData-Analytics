@@ -17,4 +17,19 @@ ElectroHub, a multi-category retail company, seeks to optimize its sales perform
 
 ## Data Model 
 
-![image alt ]()
+![image alt ](https://github.com/AtharvThakur7/SalesData-Analytics/blob/351accd6e51b618072d01909abe36d49a2f2ff84/Screenshot%202025-01-07%20222053.png)
+
+
+***Fact Table***: The Fact Table captures transactional data, including:
+
+Date (dd/mm/yyyy), CustomerID, PromotionID, ProductID
+Key metrics: Units Sold, Price Per Unit, Total Sales, Discount Percentage, Discount Value, and Net Sales.
+This table stores the core numerical data for analysis.
+
+***Dimension Tables*** :
+
+- Customer: Contains customer details, providing context for sales data.
+- Product: Stores product information, helping to analyze sales by category, type, etc.
+- Promotion: Includes promotion details (e.g., Summer Sale, Festive Diwali, etc.), discount coupons, percentages, and values associated with each promotion.
+- Date Table 1: Represents an active relationship to the Fact Table based on the transaction date, supporting time-based analysis (daily, monthly, etc.).
+- Date Table 2: Represents an inactive relationship, used for specific date-based calculations such as comparing different time periods or analyzing data across alternate date ranges.

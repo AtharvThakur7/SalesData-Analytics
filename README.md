@@ -50,13 +50,13 @@ This table stores the core numerical data for analysis.
 
 
 
-***Average Discount Offered in Categories *** :
+***Average Discount Offered in Categories***:
 
 - Weekend Flash Sales have the highest average discount (23K), followed by Clearance Sales (18K).
 
 - Minimal discounts (or none) are observed for Festive Diwali and New Year Special, indicating premium pricing strategies during festive periods.
 
-4. ***Total Orders*** :
+4. ***Total Orders***:
 
 - The business processed 3.51K orders, showing a reasonable volume given the high-value products like electronics.
 
@@ -69,20 +69,20 @@ This table stores the core numerical data for analysis.
 
 ![image alt](https://github.com/AtharvThakur7/SalesData-Analytics/blob/ea153fde828db80cde7fbdc529fcd90357d4a167/Screenshot%202025-01-07%20222344.png)
 
-1. ***Top/Bottom 5 Products by Sales***:
+1.***Top/Bottom 5 Products by Sales***:
 
 - Top Performers: High-ticket items like the Apple iPhone 14 (21.4M) and Apple MacBook Air drive significant revenue.
 - Underperformers: Products like Colgate Toothpaste (21K) indicate either low demand or competitive pricing issues.
 
 
-2.*** Top/Bottom 5 Products by Unit Sold***:
+2.***Top/Bottom 5 Products by Unit Sold***:
 
 - High Quantity Sellers: Apple iPhone 14 leads in both sales and quantity, showing brand strength.
 
 - Low Quantity Sellers: Borosil Glass Set and Nivea Body Lotion are at the bottom, suggesting limited demand or niche markets.
 
 
-3.*** Top/Bottom 5 Products by Profit*** :
+3.***Top/Bottom 5 Products by Profit*** :
 
 - High Profit Generators: Electronics dominate, with the iPhone 14 contributing the most profit (2.14M).
 
@@ -117,7 +117,7 @@ This table stores the core numerical data for analysis.
 
 
 
-3.*** Sales Trends***:
+3.***Sales Trends***:
 
 - The decline in net sales from 2023 to 2024 signals the need to reinvigorate product offerings or enhance promotional strategies.
 

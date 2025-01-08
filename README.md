@@ -33,3 +33,9 @@ This table stores the core numerical data for analysis.
 - Promotion: Includes promotion details (e.g., Summer Sale, Festive Diwali, etc.), discount coupons, percentages, and values associated with each promotion.
 - Date Table 1: Represents an active relationship to the Fact Table based on the transaction date, supporting time-based analysis (daily, monthly, etc.).
 - Date Table 2: Represents an inactive relationship, used for specific date-based calculations such as comparing different time periods or analyzing data across alternate date ranges.
+
+
+# Business InSights
+##  a> Part 1  - Sales Trends and Key Metrics Analysis
+
+![image alt]()

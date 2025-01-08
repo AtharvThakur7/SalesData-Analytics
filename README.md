@@ -39,3 +39,13 @@ This table stores the core numerical data for analysis.
 ##  a> Part 1  - Sales Trends and Key Metrics Analysis
 
 ![image alt](https://github.com/AtharvThakur7/SalesData-Analytics/blob/94ba46898437a56aa56ae411986052fed5c220fa/Screenshot%202025-01-07%20231647.png)
+
+## b> Part 2 - Top and Bottom Product Performance
+
+![image alt](https://github.com/AtharvThakur7/SalesData-Analytics/blob/ea153fde828db80cde7fbdc529fcd90357d4a167/Screenshot%202025-01-07%20222344.png
+)
+
+
+## c> Part 3  - Comparative Sales and Profit Analysis
+
+![image alt](https://github.com/AtharvThakur7/SalesData-Analytics/blob/ea153fde828db80cde7fbdc529fcd90357d4a167/Screenshot%202025-01-07%20222413.png)

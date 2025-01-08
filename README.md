@@ -38,4 +38,4 @@ This table stores the core numerical data for analysis.
 # Business InSights
 ##  a> Part 1  - Sales Trends and Key Metrics Analysis
 
-![image alt]()
+![image alt](https://github.com/AtharvThakur7/SalesData-Analytics/blob/94ba46898437a56aa56ae411986052fed5c220fa/Screenshot%202025-01-07%20231647.png)
